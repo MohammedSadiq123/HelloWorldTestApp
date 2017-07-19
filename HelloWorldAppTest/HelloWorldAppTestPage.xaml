@@ -5,7 +5,7 @@
 	xmlns:local="clr-namespace:HelloWorldAppTest"
 	x:Class="HelloWorldAppTest.HelloWorldAppTestPage">
 	<Label
-		Text="Welcome to Xamarin Forms HELLO WORLD!"
+		Text="Welcome to HELLO WORLD!"
 		VerticalOptions="Center"
 		HorizontalOptions="Center" />
 </ContentPage>
