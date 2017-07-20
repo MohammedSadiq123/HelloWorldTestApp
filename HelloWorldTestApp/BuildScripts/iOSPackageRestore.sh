@@ -1,0 +1,1 @@
+nuget restore $1/GEuropeMobile/Grosvenor.sln
